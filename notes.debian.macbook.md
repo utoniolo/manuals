@@ -59,4 +59,6 @@ There is a "debian" branch which can be used to extract and pack-up the
 firmware. To clone the branch
 The whole instruction set can be found at
 https://github.com/patjak/bcwc_pcie/wiki/Get-Started#get-started-on-debian
+To load the proper module configuration dat files we need extra work described 
+here: https://github.com/patjak/bcwc_pcie/wiki/Extracting-the-sensor-calibration-files
 
