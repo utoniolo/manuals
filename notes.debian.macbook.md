@@ -62,3 +62,7 @@ https://github.com/patjak/bcwc_pcie/wiki/Get-Started#get-started-on-debian
 To load the proper module configuration dat files we need extra work described 
 here: https://github.com/patjak/bcwc_pcie/wiki/Extracting-the-sensor-calibration-files
 
+## CPU kworker
+It fucks up the CPU 
+look at: https://unix.stackexchange.com/questions/242013/disable-gpe-acpi-interrupts-on-boot
+and at: https://sudoremember.blogspot.com/2013/05/high-cpu-usage-due-to-kworker.html 
